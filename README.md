@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Camara-Diadie
-- 👀 I’m interested in la programmation
+- 👀 I’m interested in la programmation front-end
 - 🌱 I’m currently learning le javascript /VueJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
